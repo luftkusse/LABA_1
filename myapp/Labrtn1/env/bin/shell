@@ -1,0 +1,2 @@
+#!/home/nik/myapp/env/bin/python
+from Mypackage import Myshell
